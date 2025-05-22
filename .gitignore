@@ -1,0 +1,8 @@
+.idea
+
+bootstrap
+bootstrap.zip
+
+infra/.terraform
+infra/.terraform.lock.hcl
+infra/terraform.tfstate
